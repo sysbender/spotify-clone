@@ -28,6 +28,15 @@ npx tailwindcss init -p
 
 ```
 
+## shadcd/ui
+
+https://ui.shadcn.com/docs/installation/vite
+
+```
+npm install -D @types/node
+
+```
+
 #============
 versions
 
