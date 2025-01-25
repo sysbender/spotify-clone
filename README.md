@@ -36,6 +36,11 @@ https://ui.shadcn.com/docs/installation/vite
 npm install -D @types/node
 
 ```
+## clerk 
+
+npm install @clerk/clerk-react
+
+
 
 #============
 versions
